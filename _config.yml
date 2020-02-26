@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Sakhi Blog"
 title_separator          : "Matkul Proyek1"
-subtitle                 : "Aduh meni susah"
+subtitle                 : "Mata Kuliah Proyek 1"
 name                     : "Muhammad Sakhi Hartanto"
 description              : "Manusia doang"
 url                      : "https://sakhihartanto.github.io"
