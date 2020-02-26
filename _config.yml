@@ -132,7 +132,7 @@ author:
         url: "https://instagram.com/sakhihartanto"
 
 # # Site Footer
- footer:
+ # footer:
    links:
 #     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
