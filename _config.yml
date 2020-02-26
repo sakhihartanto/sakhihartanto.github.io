@@ -116,7 +116,6 @@ author:
        # label: "Email"
         icon: "fas fa-fw fa-envelope-square"
         url: mailto:productionsakhi@gmail.com
-  links:
         # icon: "fas fa-fw fa-link"
         # url: "https://your-website.com"
      # - label: "Twitter"
@@ -128,7 +127,7 @@ author:
 #     - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/sakhihartanto"
-      label: "Instagram"
+      # label: "Instagram"
         icon: "fab fa-fw fa-instagram"
         url: "https://instagram.com/sakhihartanto"
 
