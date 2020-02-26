@@ -113,7 +113,7 @@ author:
   location         : "Bandoeng"
   email            : "productionsakhi@gmail.com"
   links:
-       label: "Email"
+       # label: "Email"
         icon: "fas fa-fw fa-envelope-square"
         url: mailto:productionsakhi@gmail.com
   # links:
