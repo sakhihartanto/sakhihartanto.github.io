@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cuman manusia yang di lahirkan di dunia untuk mencintai kamu"
   location         : "Bandoeng"
-  # email            : "productionsakhi@gmail.com"
+  email            : "productionsakhi@gmail.com"
   links:
      # - label: "Email"
         icon: "fas fa-fw fa-envelope-square"
