@@ -119,7 +119,7 @@ author:
         # icon: "fas fa-fw fa-link"
         # url: "https://your-website.com"
      # - label: "Twitter"
-        icon: "fas fa-fw fa-twitter-square"
+        icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/sakhihartanto"
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
@@ -152,6 +152,14 @@ author:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       # url:
+
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/spanduk.png
+  caption: "Photo credit: Kemahasiswaan.com"
+  actions:
+    - label: "More Info"
+      url: "instagram.com/sakhihartanto"
 
 
 # Reading Files
