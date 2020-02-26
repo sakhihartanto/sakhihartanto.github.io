@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,7 +24,7 @@ description              : "Manusia doang"
 url                      : "https://sakhihartanto.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/Polban.png"
+# teaser                   : "/assets/images/Polban.png"
 logo                     : "/assets/images/Polban.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -113,9 +113,9 @@ author:
   location         : "Bandoeng"
   email            : "productionsakhi@gmail.com"
   links:
-       # label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
-        url: mailto:productionsakhi@gmail.com
+       # # label: "Email"
+       #  icon: "fas fa-fw fa-envelope-square"
+       #  url: mailto:productionsakhi@gmail.com
 #         # icon: "fas fa-fw fa-link"
 #         # url: "https://your-website.com"
 #      # - label: "Twitter"
